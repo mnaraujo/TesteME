@@ -1,4 +1,5 @@
 using Xunit;
+using Pedido.Domain;
 
 namespace Pedido.UnitTests
 {
@@ -6,8 +7,7 @@ namespace Pedido.UnitTests
     {
         public void CreatePedido()
         {
-            string produto = "nome produto";
+            ICreatePedido pedido = new CreatePedido();
         }
-
     }
 }
