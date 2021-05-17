@@ -1,0 +1,8 @@
+C:\Users\ThaCu\Documents\Projects\TestME\source\Pedido.Domain\bin\Debug\netstandard2.0\Pedido.Domain.deps.json
+C:\Users\ThaCu\Documents\Projects\TestME\source\Pedido.Domain\bin\Debug\netstandard2.0\Pedido.Domain.dll
+C:\Users\ThaCu\Documents\Projects\TestME\source\Pedido.Domain\bin\Debug\netstandard2.0\Pedido.Domain.pdb
+C:\Users\ThaCu\Documents\Projects\TestME\source\Pedido.Domain\obj\Debug\netstandard2.0\Pedido.Domain.csprojAssemblyReference.cache
+C:\Users\ThaCu\Documents\Projects\TestME\source\Pedido.Domain\obj\Debug\netstandard2.0\Pedido.Domain.AssemblyInfoInputs.cache
+C:\Users\ThaCu\Documents\Projects\TestME\source\Pedido.Domain\obj\Debug\netstandard2.0\Pedido.Domain.AssemblyInfo.cs
+C:\Users\ThaCu\Documents\Projects\TestME\source\Pedido.Domain\obj\Debug\netstandard2.0\Pedido.Domain.dll
+C:\Users\ThaCu\Documents\Projects\TestME\source\Pedido.Domain\obj\Debug\netstandard2.0\Pedido.Domain.pdb
